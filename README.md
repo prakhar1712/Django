@@ -17,3 +17,7 @@ python manage.py runserver
 #frontend
 cd frontend
 npm i
+
+#before creating task login
+#username - prakhar
+#password - prakhar
